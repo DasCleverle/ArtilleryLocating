@@ -1,0 +1,1 @@
+#include "\x\cl\addons\artylocating\script_component.hpp"
